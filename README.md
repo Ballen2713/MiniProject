@@ -4,4 +4,5 @@ The UI uses pug which is a templating html type
 
 # Get Started
 Make sure to install proper dependencies run `npm install`
+
 Then run `node app.js` 
